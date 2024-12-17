@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou **Rodrigo Silva**  
-### Desenvolvedor Web FullStack. 🚀  
+### Desenvolvedor Web FullStack na [IngaSoft](https://rodsoft.tech) 🚀  
 
 ---
 
@@ -27,6 +27,7 @@ Sou um desenvolvedor **FullStack** apaixonado por criar soluções **web** e **m
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
 ---
