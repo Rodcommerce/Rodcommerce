@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou **Rodrigo Silva**  
-### Desenvolvedor Web FullStack na [IngaSoft](https://rodsoft.tech) 🚀  
+### Desenvolvedor Web FullStack. 🚀  
 
 ---
 
